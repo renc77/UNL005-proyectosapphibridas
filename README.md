@@ -24,4 +24,3 @@ Ingresa la estación de destino
 La App informa las Rutas recomendadas según criterios de evaluación (Ruta Rápida o Ruta Cómoda)
 Sí el PCD selecciona una ruta, los demás pasajeros que han seleccionado esa misma ruta son alertados para dar la mejor experiencia a éste pasajero
 Cuando el Pasajero ingresa al bus, marca el inicio de su recorrido
-
