@@ -7,7 +7,6 @@ App que fomenta el reciclaje de dispositivos electrónicos.
 | Nombre        | Función       | 
 | ------------- |:-------------:| 
 |Oscar Felipe Castaño Martinez|DBA,Frontend| 
-|Yuly Marcela Vargas   |Frontend|   
 |Juan Diego Tovar |DBA, Art Designer|   
 |Rene Caballero|Backend y pruebas|   
 |Fernando Gaona|Backend|   
